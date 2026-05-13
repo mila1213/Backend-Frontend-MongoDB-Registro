@@ -18,17 +18,23 @@ Para que el proyecto funcione correctamente , se debe seguir los siguientes paso
 
 ### 1. Clonar el Proyecto
 git clone [https://github.com/mila1213/Backend-Frontend-MongoDB-Registro.git](https://github.com/mila1213/Backend-Frontend-MongoDB-Registro.git)
+
 **##Configuración del Backend**
 cd backend
 npm install
+
 **##Configuración del Frontend**
 cd Frontend
 npm install
 
 **##Capturas del Sistema**
+
 **##Registro**
+
 <img width="583" height="481" alt="image" src="https://github.com/user-attachments/assets/fe528acf-c6b0-49eb-9cf8-4385ba4ba6a1" />
+
 **##Recuperación de Contraseña**
 <img width="607" height="370" alt="image" src="https://github.com/user-attachments/assets/93812a8e-4291-489a-a6c5-5cac01d0452f" />
+
 **##MongoDB**
 <img width="1861" height="675" alt="image" src="https://github.com/user-attachments/assets/f3a9482e-2de3-4006-9ac7-dff3118b9ea1" />
