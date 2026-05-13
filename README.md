@@ -16,7 +16,12 @@ Siguiendo las buenas prácticas de organización, el proyecto se divide en:
 °   **Backend**: Servidor desarrollado en Node.js y Express, encargado de la lógica de negocio y la conexión con MongoDB.
 
 °   **Frontend`**: Interfaz de usuario construida en React.js, enfocada en la experiencia del usuario y el consumo de la API.
+## Arquitectura
 
+- Frontend: React (Vite)
+- Backend: Node + Express
+- Base de datos: MongoDB
+- Autenticación: JWT
 # Tecnologías Utilizadas
 
 ## Frontend
@@ -36,6 +41,7 @@ Siguiendo las buenas prácticas de organización, el proyecto se divide en:
 
 ## Guía de Instalación y Ejecución
 Para que el proyecto funcione correctamente , se debe seguir los siguientes pasos:  
+
 ## Requisitos Previos
 - Node.js
 - MongoDB
@@ -45,14 +51,46 @@ Para que el proyecto funcione correctamente , se debe seguir los siguientes paso
 git clone [https://github.com/mila1213/Backend-Frontend-MongoDB-Registro.git](https://github.com/mila1213/Backend-Frontend-MongoDB-Registro.git)
 
 ## Configuración del Backend
-- cd backend
-- npm install
-- npm run dev
-
+### Ingresar a la carpeta 
+```bash
+cd Frontend
+npm install
+npm run dev
+```
+### Instalar dependencias 
+```bash
+npm install
+```
+### Ejecutar en proyecto
+```bash
+npm run dev
+```
 ## Configuración del Frontend
-- cd Frontend
-- npm install
-- npm run dev
+### Ingresar a la carpeta 
+```bash
+cd Frontend
+npm install
+npm run dev
+```
+### Instalar dependencias 
+```bash
+npm install
+```
+### Ejecutar en proyecto
+```bash
+npm run dev
+```
+## Variables de entorno
+El proyecto requiere un archivo `.env` en la carpeta backend.
+### backend/.env
+```env
+PORT=3000
+MONGO_URI= mongodb+srv://ejemplo:<clave>@cluster0.sremjdg.mongodb.net/authdb
+JWT_SECRET=clave_super_secreta_para_clase
+FRONTEND_URL=http://localhost:5173
+EMAIL_USER= ejemplo@gmail.com
+EMAIL_PASS=aeio aeio aeio aeio 
+
 
 **Es importante que el backend y frontend esten ejecutados simultaneamente**
 
