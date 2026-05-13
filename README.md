@@ -55,14 +55,15 @@ npm install
 npm run dev
 
 **Es importante que el backend y frontend esten ejecutados simultaneamente**
-**##Capturas del Sistema**
 
-**##Registro**
+## Capturas del Sistema 
+
+**Registro**
 
 <p align="center"><img width="583" height="481" alt="image" src="https://github.com/user-attachments/assets/fe528acf-c6b0-49eb-9cf8-4385ba4ba6a1" /></p>
 
-**##Recuperación de Contraseña**
+**Recuperación de Contraseña**
 <p align="center"><img width="607" height="370" alt="image" src="https://github.com/user-attachments/assets/93812a8e-4291-489a-a6c5-5cac01d0452f" /></p>
 
-**##MongoDB**
+**MongoDB**
 <p align="center"><img width="1861" height="675" alt="image" src="https://github.com/user-attachments/assets/f3a9482e-2de3-4006-9ac7-dff3118b9ea1" /></p>
