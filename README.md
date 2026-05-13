@@ -44,12 +44,12 @@ Para que el proyecto funcione correctamente , se debe seguir los siguientes paso
 ### 1. Clonar el Proyecto
 git clone [https://github.com/mila1213/Backend-Frontend-MongoDB-Registro.git](https://github.com/mila1213/Backend-Frontend-MongoDB-Registro.git)
 
-**##Configuración del Backend**
+**-Configuración del Backend**
 cd backend
 npm install
 npm run dev
 
-**##Configuración del Frontend**
+**-Configuración del Frontend**
 cd Frontend
 npm install
 npm run dev
