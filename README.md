@@ -10,13 +10,13 @@ Este proyecto integra un frontend dinámico, una API RESTful y una base de datos
 - Implementar flujo de verificación y recuperación de cuentas.
 - Aplicar buenas prácticas de organización de proyecto.
 
-##  Estructura del Repositorio
+###  Estructura del Repositorio
 Siguiendo las buenas prácticas de organización, el proyecto se divide en:
 
 °   **Backend**: Servidor desarrollado en Node.js y Express, encargado de la lógica de negocio y la conexión con MongoDB.
 
 °   **Frontend`**: Interfaz de usuario construida en React.js, enfocada en la experiencia del usuario y el consumo de la API.
-## Arquitectura
+### Arquitectura
 
 - Frontend: React (Vite)
 - Backend: Node + Express
@@ -83,25 +83,29 @@ npm run dev
 ## Variables de entorno
 El proyecto requiere un archivo `.env` en la carpeta backend.
 ### backend/.env
+
+
 ```env
 PORT=3000
-MONGO_URI= mongodb+srv://ejemplo:<clave>@cluster0.sremjdg.mongodb.net/authdb
+MONGO_URI=mongodb+srv://ejemplo:<clave>@cluster0.sremjdg.mongodb.net/authdb
 JWT_SECRET=clave_super_secreta_para_clase
 FRONTEND_URL=http://localhost:5173
-EMAIL_USER= ejemplo@gmail.com
-EMAIL_PASS=aeio aeio aeio aeio 
+
+EMAIL_USER=ejemplo@gmail.com
+EMAIL_PASS=aeioaeioaeioaeio
+```
 
 
 **Es importante que el backend y frontend esten ejecutados simultaneamente**
 
 ## Capturas del Sistema 
 
-**Registro**
+### **Registro**
 
 <p align="center"><img width="583" height="481" alt="image" src="https://github.com/user-attachments/assets/fe528acf-c6b0-49eb-9cf8-4385ba4ba6a1" /></p>
 
-**Recuperación de Contraseña**
+#### **Recuperación de Contraseña**
 <p align="center"><img width="607" height="370" alt="image" src="https://github.com/user-attachments/assets/93812a8e-4291-489a-a6c5-5cac01d0452f" /></p>
 
-**MongoDB**
+### **MongoDB**
 <p align="center"><img width="1861" height="675" alt="image" src="https://github.com/user-attachments/assets/f3a9482e-2de3-4006-9ac7-dff3118b9ea1" /></p>
