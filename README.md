@@ -65,6 +65,20 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Variables de entorno
+El proyecto requiere un archivo `.env` en la carpeta backend.
+### backend/.env
+```env
+PORT=3000
+MONGO_URI=mongodb+srv://ejemplo:<clave>@cluster0.sremjdg.mongodb.net/authdb
+JWT_SECRET=clave_super_secreta_para_clase
+FRONTEND_URL=http://localhost:5173
+
+EMAIL_USER=ejemplo@gmail.com
+EMAIL_PASS=aeioaeioaeioaeio
+```
+
 ## Configuración del Frontend
 ### Ingresar a la carpeta 
 ```bash
@@ -79,20 +93,6 @@ npm install
 ### Ejecutar en proyecto
 ```bash
 npm run dev
-```
-## Variables de entorno
-El proyecto requiere un archivo `.env` en la carpeta backend.
-### backend/.env
-
-
-```env
-PORT=3000
-MONGO_URI=mongodb+srv://ejemplo:<clave>@cluster0.sremjdg.mongodb.net/authdb
-JWT_SECRET=clave_super_secreta_para_clase
-FRONTEND_URL=http://localhost:5173
-
-EMAIL_USER=ejemplo@gmail.com
-EMAIL_PASS=aeioaeioaeioaeio
 ```
 
 
