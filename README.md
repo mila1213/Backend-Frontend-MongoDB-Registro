@@ -54,8 +54,6 @@ git clone [https://github.com/mila1213/Backend-Frontend-MongoDB-Registro.git](ht
 ### Ingresar a la carpeta 
 ```bash
 cd Frontend
-npm install
-npm run dev
 ```
 ### Instalar dependencias 
 ```bash
@@ -83,8 +81,6 @@ EMAIL_PASS=aeioaeioaeioaeio
 ### Ingresar a la carpeta 
 ```bash
 cd Frontend
-npm install
-npm run dev
 ```
 ### Instalar dependencias 
 ```bash
@@ -95,7 +91,6 @@ npm install
 npm run dev
 ```
 
-
 **Es importante que el backend y frontend esten ejecutados simultaneamente**
 
 ## Capturas del Sistema 
@@ -105,8 +100,16 @@ npm run dev
 <p align="center"><<img width="911" height="527" alt="image" src="https://github.com/user-attachments/assets/a3b2d815-bacb-4200-8ee8-f54f44c64ea4" /></p>
 
 #### **Recuperación de Contraseña**
-<p align="center"><img width="953" height="434" alt="image" src="https://github.com/user-attachments/assets/49c567f9-d189-4a5e-9de4-b97a19429a74" />
-</p>
+<p align="center"><img width="953" height="434" alt="image" src="https://github.com/user-attachments/assets/49c567f9-d189-4a5e-9de4-b97a19429a74" /></p>
+
+<p align="center"><img width="877" height="502" alt="image" src="https://github.com/user-attachments/assets/34df0855-72a6-4220-88a2-b217308a7847" /></p>
+
+<img width="914" height="614" alt="image" src="https://github.com/user-attachments/assets/d6a10afd-3310-4292-afea-c820027d775e" /></p>
+
+<p align="center"><img width="883" height="525" alt="image" src="https://github.com/user-attachments/assets/e7b623b3-5880-470c-8752-356ddb86df07" /></p>
+
+
+
 
 ### **MongoDB**
 <p align="center"><img width="1861" height="675" alt="image" src="https://github.com/user-attachments/assets/f3a9482e-2de3-4006-9ac7-dff3118b9ea1" /></p>
