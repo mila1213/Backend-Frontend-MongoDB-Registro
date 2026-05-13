@@ -101,15 +101,14 @@ npm run dev
 
 #### **Recuperación de Contraseña**
 <p align="center"><img width="953" height="434" alt="image" src="https://github.com/user-attachments/assets/49c567f9-d189-4a5e-9de4-b97a19429a74" /></p>
-
+1. Solicitar la recuperacion de contraseña 
 <p align="center"><img width="877" height="502" alt="image" src="https://github.com/user-attachments/assets/34df0855-72a6-4220-88a2-b217308a7847" /></p>
-
+2. Cambiar la contrasea
 <img width="914" height="614" alt="image" src="https://github.com/user-attachments/assets/d6a10afd-3310-4292-afea-c820027d775e" /></p>
-
+3. Esperara mensaje de verificacion de la contraseña 
 <p align="center"><img width="883" height="525" alt="image" src="https://github.com/user-attachments/assets/e7b623b3-5880-470c-8752-356ddb86df07" /></p>
-
-
-
 
 ### **MongoDB**
 <p align="center"><img width="1861" height="675" alt="image" src="https://github.com/user-attachments/assets/f3a9482e-2de3-4006-9ac7-dff3118b9ea1" /></p>
+
+### Autor : Camila Bueno
