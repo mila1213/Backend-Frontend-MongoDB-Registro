@@ -1,7 +1,7 @@
 ﻿# Sistema de Registro Auth Fullstack
 Este proyecto es una aplicación web integral diseñada para gestionar el registro de usuarios, utilizando la base de MongoDB.
 Este proyecto integra un frontend dinámico, una API RESTful y una base de datos NoSQL para demostrar el registro dentro de este sistema. 
-# Objetivos del Proyecto
+## Objetivos del Proyecto
 
 - Implementar un sistema de autenticación completo.
 - Aplicar arquitectura MERN.
@@ -16,13 +16,13 @@ Siguiendo las buenas prácticas de organización, el proyecto se divide en:
 °   **Backend**: Servidor desarrollado en Node.js y Express, encargado de la lógica de negocio y la conexión con MongoDB.
 
 °   **Frontend`**: Interfaz de usuario construida en React.js, enfocada en la experiencia del usuario y el consumo de la API.
-### Arquitectura
+## Arquitectura
 
 - Frontend: React (Vite)
 - Backend: Node + Express
 - Base de datos: MongoDB
 - Autenticación: JWT
-# Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ## Frontend
 - React.js
